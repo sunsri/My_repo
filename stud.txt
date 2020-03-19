@@ -4,3 +4,4 @@ age:- 13
 Sex:- Girl
 Mom:- Sunetha
 Mother toungue:- Kannada
+hobbies:- love singing
