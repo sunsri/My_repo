@@ -2,10 +2,7 @@ roll_no:- ABC-27
 name:- Rama
 age:- 13
 Gender:- Girl
-Mom:- Sunetha
-Mother toungue:- Kannada
-Dad:- SRINIVASA
-religion:- HINDU
+first schooling:- INDIA(RVKB)
 place:- INDIA
 Siblings:- 1 brother
 
