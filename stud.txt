@@ -2,10 +2,6 @@ roll_no:- ABC-27
 name:- Rama
 age:- 13
 Gender:- Girl
-Mom:- Sunetha
-Mother toungue:- Kannada
-Dad:- SRINIVASA
-religion:- HINDU
-place:- INDIA
-Siblings:- 1 brother
+class:- 7th std
+Teacher:- Mr.Burke
 
